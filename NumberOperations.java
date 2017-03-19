@@ -1,17 +1,6 @@
-/**
- * Performs various operations on an integer.
- * Activity 5.
- *
- * @author Amber Jackson
- * @version 02-22-2016
- */
+
 
 public class NumberOperations {
-  /**
-   * Prints to std output.
-   *
-   * @param args Command line arguments (not used).
-   */
    
    private int number;
       
